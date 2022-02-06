@@ -202,11 +202,12 @@
 		<p class="font-weight-bold"><i class="fas fa-exclamation-circle"></i> En caso de que quiera reforzar el desarrollo y avance del lenguaje con materiales tangibles, los siguientes sitios proveen lo necesario:</p>
 		<hr>
 		<ul class="">
-		  <li class="font-italic font-weight-bold"><a href="">Cras justo odio</a></li>
-		  <li class="font-italic font-weight-bold"><a href="">Dapibus ac facilisis in</a></li>
-		  <li class="font-italic font-weight-bold"><a href="">Morbi leo risus</a></li>
-		  <li class="font-italic font-weight-bold"><a href="">Porta ac consectetur ac</a></li>
-		  <li class="font-italic font-weight-bold"><a href="">Vestibulum at eros</a></li>
+		  <li class="font-italic font-weight-bold"><a href="http://lectografia.com.ar/">Lectografía</a></li>
+		  <li class="font-italic font-weight-bold"><a href="http://blog.jel-aprendizaje.com/">JEL-Aprendizaje</a></li>
+		  <li class="font-italic font-weight-bold"><a href="https://www.fono.ar/">Fonología</a></li>
+		  <li class="font-italic font-weight-bold"><a href="https://www.tienda.ludme.com.ar">LUDME</a></li>
+		  <li class="font-italic font-weight-bold"><a href="https://www.jugas.com.ar">Jugás</a></li>
+		  <li class="font-italic font-weight-bold"><a href="https://www.oralpuppet.com.ar">Oral Puppet</a></li>
 		</ul>
 	</div>
 </div>

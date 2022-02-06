@@ -32,8 +32,8 @@ class ActividadController extends Controller
     }
 
     public function newActividad(Request $request){
-        ini_set("upload_max_filesize","10M");
-	    ini_set("post_max_size","10M");
+        ini_set("upload_max_filesize","20M");
+	    ini_set("post_max_size","20M");
         
         $validated = $request->validate([
             'name' => ['required'],
