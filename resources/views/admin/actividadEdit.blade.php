@@ -86,7 +86,7 @@
         <td>
         <select required name='edad' class='form-control'>
           <option value="" disabled>Edad</option>
-          <option value="Menor de 2 años" <?php echo ($actividad->rango_edad == "Menor de 2 años")?'selected':'' ?>>Menor de 2 años</option>
+          <option value="2 años" <?php echo ($actividad->rango_edad == "2 años")?'selected':'' ?>>2 años</option>
           <option value="De 3 a 4 años" <?php echo ($actividad->rango_edad == "De 3 a 4 años")?'selected':'' ?>>De 3 a 4 años</option>
           <option value="De 5 a 6 años" <?php echo ($actividad->rango_edad == "De 5 a 6 años")?'selected':'' ?>>De 5 a 6 años</option>
           <option value="Mayor de 7 años" <?php echo ($actividad->rango_edad == "Mayor de 7 años")?'selected':'' ?>>Mayor de 7 años</option>

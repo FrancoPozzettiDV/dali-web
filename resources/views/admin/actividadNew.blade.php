@@ -85,7 +85,7 @@
             <td>
             <select required name='edad' class='form-control'>
               <option value="" selected disabled>Edad</option>
-              <option value="Menor de 2 años">Menor de 2 años</option>
+              <option value="2 años">2 años</option>
               <option value="De 3 a 4 años">De 3 a 4 años</option>
               <option value="De 5 a 6 años">De 5 a 6 años</option>
               <option value="Mayor de 7 años">Mayor de 7 años</option>

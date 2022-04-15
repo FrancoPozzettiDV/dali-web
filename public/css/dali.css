@@ -269,9 +269,9 @@ footer .section-title {
 	top:0;
 	left:0;
 	padding:5px 15px 0 15px;
-	text-align:left;
+	text-align:center;
 	background:#fff;
-	
+	font-size:20px;
 }
 
 .team-front
