@@ -24,9 +24,8 @@
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Sobre DALI</h5>
 					<span class="blanco">
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-					natoque penatibus et magnis dis parturient montes,
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+					Somos un sitio que tiene como objetivo ayudar a los más pequeñps a alcanzar un buen desarrollo del lenguaje, 
+					brindando información actualizada y recursos para quienes participan en esta etapa crítica del desarrollo.
 					</span>
 				</div>
 			</div>

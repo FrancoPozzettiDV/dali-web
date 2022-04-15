@@ -159,17 +159,17 @@
       <div class="col-lg-4">
         <img src="../img/father.png" class="rounded-circle" width="140" height="140" alt="padre">
         <h2>Padres</h2>
-        <p><a class="btn btn-secondary" href="#" role="button">Detalles &raquo;</a></p>
+        <p><a class="btn btn-primary" href="#" role="button">Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="../img/professor.png" class="rounded-circle" width="140" height="140" alt="profesora">
         <h2>Docentes</h2>
-        <p><a class="btn btn-secondary" href="#" role="button">Detalles &raquo;</a></p>
+        <p><a class="btn btn-primary" href="#" role="button">Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="../img/medic.png" class="rounded-circle" width="140" height="140" alt="doctora">
         <h2>Profesionales</h2>
-        <p><a class="btn btn-secondary" href="#" role="button">Detalles &raquo;</a></p>
+        <p><a class="btn btn-primary" href="#" role="button">Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
