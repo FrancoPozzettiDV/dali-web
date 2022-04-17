@@ -4,7 +4,7 @@
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Información</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href=""><i class="fa fa-angle-double-right"></i>Padres</a></li>
+						<li><a href="<?= route("web.parents"); ?>"><i class="fa fa-angle-double-right"></i>Padres</a></li>
 						<li><a href=""><i class="fa fa-angle-double-right"></i>Docentes</a></li>
 						<li><a href=""><i class="fa fa-angle-double-right"></i>Prof. Salud</a></li>
 						<li><a href="<?= route("web.center"); ?>"><i class="fa fa-angle-double-right"></i>Centros</a></li>
@@ -24,7 +24,7 @@
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Sobre DALI</h5>
 					<span class="blanco">
-					Somos un sitio que tiene como objetivo ayudar a los más pequeñps a alcanzar un buen desarrollo del lenguaje, 
+					Somos un sitio que tiene como objetivo ayudar a los más pequeños a alcanzar un buen desarrollo del lenguaje, 
 					brindando información actualizada y recursos para quienes participan en esta etapa crítica del desarrollo.
 					</span>
 				</div>

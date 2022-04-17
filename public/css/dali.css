@@ -110,6 +110,27 @@ body {
   overflow: hidden;
 }
 
+.infoBackground-1{
+  background-color:#98cede;
+  color:#ffffff;
+  padding-top:50px;
+  padding-bottom: 40px;
+}
+
+.infoBackground-2{
+  background-color:#474e5d;
+  color:#ffffff;
+  padding-top:70px;
+  padding-bottom: 70px;
+}
+
+.infoBackground-3{
+  background-color:whitesmoke;
+  color:#555555;
+  padding-top:70px;
+  padding-bottom: 70px;
+}
+
 /* Para cambiar el fondo del dropdown
 .dropdown-menu{
 	color:#ffffff;

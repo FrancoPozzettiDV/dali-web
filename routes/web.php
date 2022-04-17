@@ -22,6 +22,7 @@ use App\Http\Controllers\GoogleController;
 */
 
 Route::get('/', [ViewController::class,'index'])->name('web.index');
+Route::get('/padres', [ViewController::class,'parents'])->name('web.parents');
 Route::get('/actividades', [ViewController::class,'activity'])->name('web.activity');
 Route::get('/actividades/{plano}', [ViewController::class,'activities'])->name('web.activities');
 Route::get('/centros', [ViewController::class,'center'])->name('web.center');

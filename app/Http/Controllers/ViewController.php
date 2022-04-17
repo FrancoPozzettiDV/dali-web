@@ -15,6 +15,10 @@ class ViewController extends Controller
     public function index(){
         return view('dali.index');
     }
+	
+	public function parents(){
+		return view('dali.infoPadres');
+	}
     
     public function register(){
         return view('dali.registro');

@@ -26,12 +26,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item dropdown">
+        <li class="nav-item dropdown <?=Request::is('padres') || Request::is('docentes') || Request::is('profesionales') ? 'active' : ''?>">
 			    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			      Info
 			    </a>
 			<div class="dropdown-menu border border-info" aria-labelledby="navbarDropdown">
-			  <a class="dropdown-item" href="#">Padres</a>
+			  <a class="dropdown-item" href="<?= route("web.parents"); ?>">Padres</a>
 			  <div class="dropdown-divider"></div>
 			  <a class="dropdown-item" href="#">Docentes</a>
 			  <div class="dropdown-divider"></div>
