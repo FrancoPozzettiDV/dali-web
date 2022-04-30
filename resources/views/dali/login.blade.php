@@ -33,9 +33,9 @@
 			<div class="dropdown-menu border border-info" aria-labelledby="navbarDropdown">
 			  <a class="dropdown-item" href="<?= route("web.parents"); ?>">Padres</a>
 			  <div class="dropdown-divider"></div>
-			  <a class="dropdown-item" href="#">Docentes</a>
+			  <a class="dropdown-item" href="<?= route("web.teachers"); ?>">Docentes</a>
 			  <div class="dropdown-divider"></div>
-			  <a class="dropdown-item" href="#">Profesionales de salud</a>
+			  <a class="dropdown-item" href="<?= route("web.professionals"); ?>">Profesionales de salud</a>
 			</div>
         </li>
         <li class="nav-item <?=Request::is('actividades') ? 'active' : ''?>">

@@ -23,6 +23,8 @@ use App\Http\Controllers\GoogleController;
 
 Route::get('/', [ViewController::class,'index'])->name('web.index');
 Route::get('/padres', [ViewController::class,'parents'])->name('web.parents');
+Route::get('/docentes', [ViewController::class,'teachers'])->name('web.teachers');
+Route::get('/profesionales', [ViewController::class,'professionals'])->name('web.professionals');
 Route::get('/actividades', [ViewController::class,'activity'])->name('web.activity');
 Route::get('/actividades/{plano}', [ViewController::class,'activities'])->name('web.activities');
 Route::get('/centros', [ViewController::class,'center'])->name('web.center');

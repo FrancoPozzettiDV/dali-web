@@ -5,8 +5,8 @@
 					<h5>Información</h5>
 					<ul class="list-unstyled quick-links">
 						<li><a href="<?= route("web.parents"); ?>"><i class="fa fa-angle-double-right"></i>Padres</a></li>
-						<li><a href=""><i class="fa fa-angle-double-right"></i>Docentes</a></li>
-						<li><a href=""><i class="fa fa-angle-double-right"></i>Prof. Salud</a></li>
+						<li><a href="<?= route("web.teachers"); ?>"><i class="fa fa-angle-double-right"></i>Docentes</a></li>
+						<li><a href="<?= route("web.professionals"); ?>"><i class="fa fa-angle-double-right"></i>Prof. Salud</a></li>
 						<li><a href="<?= route("web.center"); ?>"><i class="fa fa-angle-double-right"></i>Centros</a></li>
 						<li><a href="<?= route("web.contact"); ?>"><i class="fa fa-angle-double-right"></i>Contacto</a></li>
 					</ul>

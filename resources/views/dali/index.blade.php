@@ -50,9 +50,9 @@
 			<div class="dropdown-menu border border-info" aria-labelledby="navbarDropdown">
 			  <a class="dropdown-item" href="<?= route("web.parents"); ?>">Padres</a>
 			  <div class="dropdown-divider"></div>
-			  <a class="dropdown-item" href="#">Docentes</a>
+			  <a class="dropdown-item" href="<?= route("web.teachers"); ?>">Docentes</a>
 			  <div class="dropdown-divider"></div>
-			  <a class="dropdown-item" href="#">Profesionales de salud</a>
+			  <a class="dropdown-item" href="<?= route("web.professionals"); ?>">Profesionales de salud</a>
 			</div>
         </li>
         <li class="nav-item <?=Request::is('actividades') ? 'active' : ''?>">
@@ -164,12 +164,12 @@
       <div class="col-lg-4">
         <img src="../img/professor.png" class="rounded-circle" width="140" height="140" alt="profesora">
         <h2>Docentes</h2>
-        <p><a class="btn btn-primary" href="#" role="button">Detalles &raquo;</a></p>
+        <p><a class="btn btn-primary" href="<?= route("web.teachers"); ?>" role="button">Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="../img/medic.png" class="rounded-circle" width="140" height="140" alt="doctora">
         <h2>Profesionales</h2>
-        <p><a class="btn btn-primary" href="#" role="button">Detalles &raquo;</a></p>
+        <p><a class="btn btn-primary" href="<?= route("web.professionals"); ?>" role="button">Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 

@@ -19,6 +19,14 @@ class ViewController extends Controller
 	public function parents(){
 		return view('dali.infoPadres');
 	}
+	
+	public function teachers(){
+		return view('dali.infoDocentes');
+	}
+	
+	public function professionals(){
+		return view('dali.infoProfesionales');
+	}
     
     public function register(){
         return view('dali.registro');

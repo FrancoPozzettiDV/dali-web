@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Página principal de DALI">
+    <meta name="description" content="Página informativa de DALI para profesionales">
     <title>DALI · Franco Pozzetti</title>
     <link rel="stylesheet" href="bootstrap/bootstrap/css/bootstrap.min.css">
     <link href="css/dali.css" rel="stylesheet">
@@ -74,8 +74,8 @@
 
 <main style="background-color:000000;">
     <div class="container-fluid infoBackground-1 text-center">
-        <img src="../img/padre.png" class="rounded-circle img-thumbnail shadow-lg"alt="padres" width="200px" height="200px"> 
-        <h1 style="text-shadow: 2px 2px #000000;">Padres</h1>
+        <img src="../img/doctora.png" class="rounded-circle img-thumbnail shadow-lg"alt="padres" width="200px" height="200px"> 
+        <h1 style="text-shadow: 2px 2px #000000;">Profesionales</h1>
     </div>
     <div class="container-fluid infoBackground-2">
         <h2 class="text-center mb-5">Desarrollo de la comunicación y el lenguaje</h2>
