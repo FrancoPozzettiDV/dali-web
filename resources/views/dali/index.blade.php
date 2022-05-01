@@ -97,7 +97,7 @@
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
-	  <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
@@ -127,7 +127,7 @@
           </div>
         </div>
       </div>
-	  <div class="carousel-item">
+      <div class="carousel-item">
         <img src="../img/incluir.png" class="d-block img-fluid" alt="slide-4">
         <div class="container">
           <div class="carousel-caption text-left">
@@ -147,44 +147,50 @@
     </a>
   </div>
 
-
-  <!-- Marketing messaging and featurettes
-  ================================================== -->
-  <!-- Wrap the rest of the page in another container to center all the content. -->
-
   <div class="container marketing">
 
-    <!-- Three columns of text below the carousel -->
+    
     <div class="row">
       <div class="col-lg-4">
-        <img src="../img/father.png" class="rounded-circle" width="140" height="140" alt="padre">
+        <img src="../img/father.png" class="rounded-circle" width="140" height="140">
         <h2>Padres</h2>
         <p><a class="btn btn-primary" href="<?= route("web.parents"); ?>" role="button">Detalles &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
+      </div>
       <div class="col-lg-4">
-        <img src="../img/professor.png" class="rounded-circle" width="140" height="140" alt="profesora">
+        <img src="../img/professor.png" class="rounded-circle" width="140" height="140">
         <h2>Docentes</h2>
         <p><a class="btn btn-primary" href="<?= route("web.teachers"); ?>" role="button">Detalles &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
+      </div>
       <div class="col-lg-4">
-        <img src="../img/medic.png" class="rounded-circle" width="140" height="140" alt="doctora">
+        <img src="../img/medic.png" class="rounded-circle" width="140" height="140">
         <h2>Profesionales</h2>
         <p><a class="btn btn-primary" href="<?= route("web.professionals"); ?>" role="button">Detalles &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
+      </div>
+    </div>
 
-
-    <!-- START THE FEATURETTES -->
 
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+      <div class="col-lg-7 col-md-6 col-sm-12">
+        <h2 class="">Comunicación y Lenguaje</h2>
+        <p class="lead text-justify">
+          Ambos representan dos conceptos diferenciados y a la vez superpuestos.
+          <br>
+          El lenguaje es instrumento de la comunicación.
+          <br>
+          <ul>
+          <li>El termino <b>lenguaje</b> se utiliza para designar la capacidad del ser humano de comunicarse y de representar la realidad mediante signos convencionales.</li>
+          <br>
+          <li>
+          El termino <b>comunicación</b> puede definirse como el intercambio de información, o puesta en común de significaciones intencionadas en una relación humana determinada.</li>
+          </ul>
+          <br>
+          En la construcción del lenguaje se diferencian los planos que lo conforman. Los mismos tienen un desarrollo simultaneo y todos son solidarios con todos para su organización y su uso.
+        </p>
       </div>
-      <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+      <div class="col-lg-5 col-md-6 col-sm-12">
+      <img src="../img/talking.png" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" alt="charla">
       </div>
     </div>
 
@@ -192,11 +198,34 @@
 
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <h2 class="featurette-heading">Retraso</h2>
+        <p class="lead text-justify">
+          El retraso simple del lenguaje consiste en un desfasaje cronológico leve, devolución transitoria con afectación de la fonología. 
+          <br>
+          Presenta una mejoría rápida a la terapia y con poca repercusión en el aprendizaje de la lectoescritura.
+        </p>
       </div>
       <div class="col-md-5 order-md-1">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+        <img src="../img/reading.png" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400" height="400" alt="leyendo">
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">TDL</h2>
+        <p class="lead text-justify">
+          El <b>Trastorno del Desarrollo del Lenguaje</b> es de caracter primario, duradero y con características diversas.
+          <br>
+          Es una alteración de los mecanismos de adquisición del lenguaje desde sus inicios, que se prolonga durante la infancia y adolescencia,
+          pudiendo llegar incluso a dejar secuelas en la edad adulta.
+          <br>
+          Esta alteración no se explica por déficit intelectual, neurológico, sensorial o emocional ni por un trastorno generalizado del desarrollo.
+        </p>
+      </div>
+      <div class="col-md-5 order-md-1">
+      <img src="../img/cubitos.png" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="400" height="400" alt="cubitos de letras">
       </div>
     </div>
 
@@ -208,16 +237,15 @@
         <p class="lead">Maneja tus turnos y obtené contacto directo con profesionales fonoaudiólogos</p>
       </div>
       <div class="col-md-5">
-        <img src="../img/dalimobile500.png" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" alt="aplicacion movil">
+        <img src="../img/dalimobile500.png" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" alt="app">
       </div>
     </div>
 
     <hr class="featurette-divider">
 
-    <!-- /END THE FEATURETTES -->
-
-  </div><!-- /.container -->
+  </div>
 </main>
+
 
 @include('dali/footer')
 
