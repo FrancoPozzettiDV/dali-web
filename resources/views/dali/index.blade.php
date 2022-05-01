@@ -152,17 +152,17 @@
     
     <div class="row">
       <div class="col-lg-4">
-        <img src="../img/father.png" class="rounded-circle" width="140" height="140">
+        <img src="../img/father.png" class="rounded-circle" width="140" height="140" alt="padre">
         <h2>Padres</h2>
         <p><a class="btn btn-primary" href="<?= route("web.parents"); ?>" role="button">Detalles &raquo;</a></p>
       </div>
       <div class="col-lg-4">
-        <img src="../img/professor.png" class="rounded-circle" width="140" height="140">
+        <img src="../img/professor.png" class="rounded-circle" width="140" height="140" alt="docente">
         <h2>Docentes</h2>
         <p><a class="btn btn-primary" href="<?= route("web.teachers"); ?>" role="button">Detalles &raquo;</a></p>
       </div>
       <div class="col-lg-4">
-        <img src="../img/medic.png" class="rounded-circle" width="140" height="140">
+        <img src="../img/medic.png" class="rounded-circle" width="140" height="140" alt="doctora">
         <h2>Profesionales</h2>
         <p><a class="btn btn-primary" href="<?= route("web.professionals"); ?>" role="button">Detalles &raquo;</a></p>
       </div>
