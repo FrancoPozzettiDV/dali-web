@@ -78,152 +78,143 @@
         <h1 style="text-shadow: 2px 2px #000000;">Docentes</h1>
     </div>
     <div class="container-fluid infoBackground-2">
-        <h2 class="text-center mb-5">Desarrollo de la comunicación y el lenguaje</h2>
+        <h2 class="text-center mb-5">Adaptaciones escolares para niños con dificultades en la comunicación y el lenguaje</h2>
         <p class="text-center" style="font-size:24px;">
-            En el desarrollo normal del lenguaje del niño, es fundamental
-            como padres estar alertas a ciertos signos que pueden llegar
-            a indicar algún tipo de alteración a futuro.
+        Los trastornos de la comunicación y el lenguaje ocasionan repercusiones
+        que afectan diferentes esferas de la vida de las personas. Entre ellas
+        se encuentran:
         </p>
+        <p class="text-center" style="font-size:18px;">
+            <b>~ Problemas de aprendizaje del código lectoescrito ~</b>
+        </p>
+        <p class="text-center" style="font-size:18px;">
+            <b>~ Descenso de habilidades cognitivas no verbales ~</b>
+        </p>
+        <p class="text-center" style="font-size:18px;">
+            <b>~ Problemas de conducta en niños pequeños ~</b>
+        </p>
+        <p class="text-center" style="font-size:16px;">
+            <b>~ Escaso desarrollo de las habilidades sociales que ocasionan
+            la presencia de determinadas conductas (aislamiento y/o agresividad,
+            inflexibilidad e hiperactividad) ~</b>
+        </p>
+        <h2 class="text-center mt-5">
+        <em>Una forma de ayudar a estos niños es a través de una enseñanza más estructurada</em>
+        </h2>
     </div>
     <div class="container infoBackground-3">
-        <h2 class="text-center mb-5"><em><u>Pautas de Alarma</u></em></h2>
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <h3 class="text-monospace">De 0 a 3 meses</h3>
-                <ul>
-                    <li><em>No reacciona ante sonidos ni a la voz.</em></li>
-                    <li><em>No sonrie.</em></li>
-                    <li><em>No mantiene el contacto ocular.</em></li>
-                    <li><em>No emite vocalizaciones.</em></li>
-                </ul>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <h3 class="text-monospace">De 6 a 12 meses</h3>
-                <ul>
-                    <li><em>Falta o poca cantidad de balbuceos.</em></li>
-                    <li><em>No responde a los cambios de entonación del adulto.</em></li>
-                    <li><em>No gira al oír su nombre.</em></li>
-                    <li><em>No comprende palabras familiares de su entorno.</em></li>
-                    <li><em>No señala.</em></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <h3 class="text-monospace">De 12 a 18 meses</h3>
-                <ul>
-                    <li><em>Irritabilidad y rabietas frecuentes.</em></li>
-                    <li><em>No aparecen las primeras palabras.</em></li>
-                    <li><em>Incomprensión de órdenes acompañadas de gestos.</em></li>
-                    <li><em>No se comunica a través de gestos "adíos", "no", etc.</em></li>
-                </ul>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 text-center">
-                <img src="../img/bebe.png" alt="bebe" width="130px" height="130px">
-            </div>
-        </div>
-        <div class="row pt-5">
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <h3 class="text-monospace">De 2 a 3 años</h3>
-                <ul>
-                    <li><em>Uso de frases de una sola palabra.</em></li>
-                    <li><em>Preferencia en el uso de gestos en lugar de palabras o vocalizaciones.</em></li>
-                    <li><em>No utiliza el "yo".</em></li>
-                    <li><em>No comprende órdenes simples.</em></li>
-                    <li><em>Cuesta entender lo que dice.</em></li>
-                </ul>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <h3 class="text-monospace">De 3 a 4 años</h3>
-                <ul>
-                    <li><em>Presenta un habla difícil de entender fuera de su contexto familiar.</em></li>
-                    <li><em>No utiliza frases de más de 2 palabras.</em></li>
-                    <li><em>No realiza preguntas del tipo ¿Qué?, ¿Dónde?, etc.</em></li>
-                    <li><em>Dificultad de relación con otros niños.</em></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12 text-center">
-                <img src="../img/kids.png" alt="niños" width="130px" height="130px">
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <h3 class="text-monospace">De 4 a 5 años</h3>
-                <ul>
-                    <li><em>Dificultad para jugar con el lenguaje (adivinanzas, veo-veo, etc.).</em></li>
-                    <li><em>Le cuesta relatar hechos sencillos.</em></li>
-                </ul>
-            </div>  
-        </div>
-        <h5 class="text-center pt-5 pb-5 text-primary">
-            Si tu bebé ya tiene más de 18 meses y aún no balbucea, 
-            te recomendamos algunas actividades que favorecerán su habla:
-        </h5>
-        <div class="row">
-            <div class="col-lg-4 col-md-12 col-sm-12">
-                <div class="card text-center border-dark mb-2" style="height: 10rem;">
-                    <div class="card-header bg-primary text-white border-dark"><h6>Juego de los sonidos</h6></div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Imitación de animales o cosas. 
-                            Se recomienda también la utilización de imágenes.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-12 col-sm-12">
-                <div class="card text-center border-dark mb-2" style="height: 10rem;">
-                    <div class="card-header bg-primary text-white border-dark"><h6>Imitación de gestos</h6></div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Ponerse frente al espejo y hacer gestos 
-                            faciales y linguales.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-12 col-sm-12">
-                <div class="card text-center border-dark mb-2" style="height: 10rem;">
-                    <div class="card-header bg-primary text-white border-dark"><h6>Parafrasear</h6></div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Poner palabras a todas las acciones que vaya 
-                            realizando para que los vaya asociando.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row mt-5">
-            <div class="col-lg-4 col-md-12 col-sm-12">
-                <div class="card text-center border-dark mb-2" style="height: 10rem;">
-                    <div class="card-header bg-primary text-white border-dark"><h6>Canto</h6></div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Elegir canciones con temas divertidos 
-                            y con las que puedan bailar.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-12 col-sm-12">
-                <div class="card text-center border-dark mb-2" style="height: 10rem;">
-                    <div class="card-header bg-primary text-white border-dark"><h6>Cuentos</h6></div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Buscar libros con animales o personajes
-                            que conozca para que practiquen los sonidos.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	  <h2 class="text-center mb-5"><em>
+	  Esta estructura se diseña en diferentes niveles
+	  </em></h2>
+      <div class="row">
+          <div class="col-lg-6 col-md-12 col-sm-12">
+              <h3 class="text-monospace">a) Estructura física del entorno</h3>
+              <p>Organización del ambiente del aula y espacios de aprendizaje</p>
+          </div>
+	  </div>
+	  <div class="row">
+          <div class="col-lg-7 col-md-12 col-sm-12">
+              <h3 class="text-monospace">b) Agendas diarias</h3>
+              <p class="text-justify">
+			  Secuencias de dibujos simples que sirven para anticipar las actividades
+			  que vendrán o se usan como recurso para explicar cómo desarrollar
+			  una determinada tarea. Su objetivo es brindarles a los niños un marco de
+			  predictibilidad del entorno, orden y organización para la vida diaria.
+			  </p>
+          </div>
+		  <div class="col-lg-5 col-md-12 col-sm-12 text-center">
+              <img src="img/children.png" alt="niños" width="190px" height="190px">
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-lg-6 col-md-12 col-sm-12">
+              <h3 class="text-monospace">c) Estructura e información visual</h3>
+              <p class="text-justify">
+			  Existen tres características esenciales para que las actividades sean realizadas
+			  en forma satisfactoria. Deben ser:
+			  </p>
+			  <ol>
+				<li>Claras</li>
+				<li>Organizadas</li>
+				<li>Con instrucciones visuales</li>
+			  </ol>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+              <h3 class="text-monospace">d) Estrategias de intervención por áreas</h3>
+          </div>
+	  </div>
+	  <div class="row">
+		  <div class="col-lg-5 col-md-12 col-sm-12">
+			<ul>
+				<li>
+					<h5 class="text-monospace">En relación a la conducta</h5>
+				</li>
+				<ul>
+				  <li><em>Uso de agendas visuales.</em></li>
+				  <li><em>Uso de ambientes desprovistos de ruidos.</em></li>
+				</ul>
+			</ul>
+          </div>
+		  <div class="col-lg-7 col-md-12 col-sm-12">
+              <ul>
+			  <li>
+					<h5 class="text-monospace">En relación a la comunicación</h5>
+				</li>
+				
+              <ul>
+                  <li><em>Hablar lentamente mirando el niño a la cara.</em></li>
+                  <li><em>Utilizar frases cortas.</em></li>
+				  <li><em>Acompañar el habla con gestos.</em></li>
+				  <li><em>Repetir una y otra vez lo mismo.</em></li>
+				  <li><em>Subdividir una consigna en pequeñas partes para favorecer la comprensión.</em></li>
+				  <li><em>Facilitar la producción brindando gestos y sílabas iniciales para generar la palabra.</em></li>
+              </ul>
+			  </ul>
+          </div> 
+	  </div>
+	  
+	  <div class="row">
+		  <div class="col-lg-5 col-md-12 col-sm-12">
+			<ul>
+				<li>
+					<h5 class="text-monospace">En relación a aspectos cognitivos</h5>
+				</li>
+				<p>El trabajo debe centrarse en 3 factores fundamentales:</p>
+				<ul>
+				  <li><em>La experiencia directa.</em></li>
+				  <li><em>El uso de material concreto.</em></li>
+				  <li><em>El uso de facilitadores gráficos.</em></li>
+				</ul>
+			</ul>
+          </div>
+		  <div class="col-lg-7 col-md-12 col-sm-12">
+              <ul>
+				<li>
+					<h5 class="text-monospace">En relación a aspectos sociales</h5>
+				</li>
+				
+              <ul>
+                  <li><em>La espera de turnos en la comunicación.</em></li>
+                  <li><em>Aprender a escuchar a los demás.</em></li>
+				  <li><em>Identificar estados de ánimo asociados a distintas situaciones y habilidades de tipos mentalistas y de teoria de la mente, entre otras cosas.</em></li>
+              </ul>
+			  </ul>
+          </div> 
+	  </div>
+      <div class="row pt-5">
+		<div class="col-lg-6 col-md-6 col-sm-6 text-center">
+			<img src="img/read_girl.png" alt="niña con libro" width="100px" height="100px">
+		</div>
+		<div class="col-lg-6 col-md-6 col-sm-6 text-center">
+			<img src="img/read_boy.png" alt="niño con libro" width="100px" height="100px">
+		</div>
+	  </div>
+  </div>
+    
     
 </main>
-
-
-
 
 
 @include('dali/footer')

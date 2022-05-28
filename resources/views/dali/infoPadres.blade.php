@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-5">
+        <div class="row justify-content-center mt-5">
             <div class="col-lg-4 col-md-12 col-sm-12">
                 <div class="card text-center border-dark mb-2" style="height: 10rem;">
                     <div class="card-header bg-primary text-white border-dark"><h6>Canto</h6></div>
